@@ -7,7 +7,7 @@ help:
 	@grep -P "^[^\s].*:\$$" Makefile
 	@echo
 
-commit_to_git:
+git:
 	@echo
 	@echo
 	ls 
